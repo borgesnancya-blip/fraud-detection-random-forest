@@ -9,9 +9,9 @@ Este proyecto implementa un modelo de **Machine Learning** capaz de identificar 
 * **Matplotlib & Seaborn** (Visualización de datos)
 
 ## 📊 Resultados Obtenidos
-* **Precision:** 0.99 (Casi 0 falsas alarmas para clientes reales).
-* **Recall:** 0.91 (Identificación efectiva de la gran mayoría de los fraudes).
-* **AUC-ROC:** 0.99 (Excelente capacidad de distinción entre clases).
+* **Precision:** 0.98 (Casi 0 falsas alarmas para clientes reales).
+* **Recall:** 0.90 (Identificación efectiva de la gran mayoría de los fraudes).
+* **AUC-ROC:** 0.98 (Excelente capacidad de distinción entre clases).
 
 ---
 *Proyecto realizado para demostrar habilidades en Análisis de Datos y Modelado Predictivo.*
