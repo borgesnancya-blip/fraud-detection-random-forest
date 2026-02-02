@@ -4,7 +4,7 @@
 Este proyecto implementa un modelo de **Machine Learning** capaz de identificar transacciones fraudulentas con una precisión del 99%. Se trabajó con un dataset altamente desbalanceado, aplicando técnicas de sub-muestreo (undersampling) para mejorar el entrenamiento.
 
 ## 🚀 Tecnologías utilizadas
-* **Python**
+* Python
 * **Pandas & NumPy** (Manipulación de datos)
 * **Scikit-Learn** (Random Forest Classifier)
 * **Matplotlib & Seaborn** (Visualización de datos)
