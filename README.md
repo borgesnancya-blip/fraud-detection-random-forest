@@ -10,7 +10,7 @@ Este proyecto implementa un modelo de **Machine Learning** capaz de identificar 
 
 ## 📊 Resultados Obtenidos
 * **Precision:** 0.98 (Casi 0 falsas alarmas para clientes reales).
-* **Recall:** 0.90 (Identificación efectiva de la gran mayoría de los fraudes).
+* **Sensibilidad:** 0.90 (Identificación efectiva de la gran mayoría de los fraudes).
 * **AUC-ROC:** 0.98 (Excelente capacidad de distinción entre clases).
 
 ---
